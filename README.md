@@ -52,9 +52,23 @@ The device can send instant alerts along with the user's live location to predef
 - Required GPS & GSM libraries
 
 ## 🖼️ Device & Circuit Images
+## 🖼️ Device & Circuit Images
 
-![Device Image](images/device.jpg)
-![Circuit Diagram](images/circuit.png)
+### Block Diagram
+![Block Diagram](images/block_diagram.jpeg)
+
+### Circuit Diagram
+![Circuit Diagram](images/circuit_diagram.jpeg)
+
+### Circuit Setup
+![Circuit Setup](images/circuit_setup.jpeg)
+
+### Message & Call Alert
+![Incoming Message](images/incoming_call_messg.jpeg)
+
+### Location Tracking
+![Location Tracking](images/location_tracking.jpeg)
+
 
 ## 🔮 Future Scope
 - Mobile application integration
