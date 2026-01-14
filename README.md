@@ -26,9 +26,9 @@ The device can send instant alerts along with the user's live location to predef
 4. Location can be tracked in real-time
 
 ## 📂 Project Structure
-- `/code` → Arduino source code for the women safety device
-- `/images` → Device photos, block diagram, and circuit images
-- `/README.md` → Project documentation and explanation
+- [`/code`](code) → Arduino source code for the women safety device
+- [`/images`](images) → Device photos, block diagram, and circuit images
+- [`README.md`](README.md) → Project documentation and explanation
 
 ## ⚙️ Setup & Execution
 1. Connect all components according to the circuit diagram
